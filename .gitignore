@@ -1,0 +1,13 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+.idea
+.idea/*
+.DS_Store
+_ide_helper.php
+/storage/framework/views/*
+/storage/framework/sessions/*
+/storage/framework/cache/*
+/storage/logs/*
